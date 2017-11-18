@@ -18,3 +18,5 @@ Exercise, creating a basic Rails app.
 
 ## RESOURCES
 - Exercise from: _Ruby on Rails™ Tutorial: Learn Web Development with Rails_, Fourth Edition, by Michael Hartl
+
+
