@@ -7,7 +7,7 @@ Exercise, creating a basic Rails app.
 - SQLite 3.19.3
 
 ## Getting Started
-- Clone repo
+- Clone repository: ```git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY```
 - Install gems ```bundle install --without production```
   - "--without production" skips the PostgreSQL gem (pg) in development and use SQLite for development and testing.
 - Migrate database ```rails db:migrate```
@@ -16,5 +16,5 @@ Exercise, creating a basic Rails app.
 - Use browser to open ```127.0.0.1:3000/hello```
 
 
-RESOURCES
+## RESOURCES
 - Exercise from: _Ruby on Rails™ Tutorial: Learn Web Development with Rails_, Fourth Edition, by Michael Hartl
